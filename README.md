@@ -120,4 +120,5 @@ This is a static site, so it can be hosted for free on GitHub Pages, Vercel, Net
 ## 🙏 Credits
 
 Based on the open-source Rubik's Cube portfolio template by [Brahmpreett](https://github.com/Brahmpreett/Rubiks-Cube). 
+
 **Content, projects, certifications, copy and layout changes by Anand Mahadev.**
