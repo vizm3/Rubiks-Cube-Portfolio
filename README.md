@@ -4,7 +4,7 @@ Personal portfolio of **Penumudi Anand Mahadev**, a final-year AI & Machine Lear
 
 The site is built around an interactive 3D Rubik's Cube, with smooth animations and a responsive single-page layout.
 
-🔗 **Live site:** `https://YOUR-LIVE-URL`
+🔗 **Live site:** `https://vizm3.github.io/Rubiks-Cube-Portfolio/`
 
 ---
 
